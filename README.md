@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **backend**
 
 - 📫 How to reach me **www.linkedin.com/in/ shilpabijalwan01**
-- Portfolio **https://vercel.com/shilpabijalwan/my-portfolioo**
+- Portfolio **[https://vercel.com/shilpabijalwan/my-portfolioo](https://my-portfolioo-eight.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
