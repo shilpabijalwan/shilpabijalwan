@@ -18,6 +18,7 @@
 - 🌱 I’m currently learning **backend**
 
 - 📫 How to reach me **www.linkedin.com/in/ shilpabijalwan01**
+- Portfolio **https://vercel.com/shilpabijalwan/my-portfolioo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
