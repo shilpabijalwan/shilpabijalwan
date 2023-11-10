@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center" color="brown">Hi 👋, I'm Shilpa Bijalwan</h1>
+<h1 align="center" style={color:"brown"}>Hi 👋, I'm Shilpa Bijalwan</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
 
